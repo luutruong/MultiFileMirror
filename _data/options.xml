@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<options>
+  <option option_id="tl_mfm_allowedExtensions" edit_format="textbox" data_type="string">
+    <default_value>zip
+rar</default_value>
+    <edit_format_params>rows=5</edit_format_params>
+    <relation group_id="tl_MultiFileMirror" display_order="50"/>
+  </option>
+  <option option_id="tl_mfm_allowedNodes" edit_format="callback" data_type="array">
+    <default_value>[]</default_value>
+    <edit_format_params>XF\Option\Forum::renderSelectMultiple</edit_format_params>
+    <sub_options>*</sub_options>
+    <relation group_id="tl_MultiFileMirror" display_order="5"/>
+  </option>
+  <option option_id="tl_mfm_allowedXFRMCategories" edit_format="callback" data_type="array">
+    <default_value>[]</default_value>
+    <edit_format_params>Truonglv\MultiFileMirror\Option\XFRMCategory::renderSelectMultiple</edit_format_params>
+    <sub_options>*</sub_options>
+    <relation group_id="tl_MultiFileMirror" display_order="80"/>
+  </option>
+  <option option_id="tl_mfm_apiKey" edit_format="textbox" data_type="string">
+    <default_value></default_value>
+    <relation group_id="tl_MultiFileMirror" display_order="10"/>
+  </option>
+  <option option_id="tl_mfm_enableXFRM" edit_format="onoff" data_type="boolean">
+    <default_value>1</default_value>
+    <relation group_id="tl_MultiFileMirror" display_order="15"/>
+  </option>
+  <option option_id="tl_mfm_maxViewMFMRaw" edit_format="spinbox" data_type="unsigned_integer">
+    <default_value>5</default_value>
+    <edit_format_params>min=1
+step=1</edit_format_params>
+    <relation group_id="tl_MultiFileMirror" display_order="1"/>
+  </option>
+  <option option_id="tl_mfm_removeAttachFiles" edit_format="spinbox" data_type="unsigned_integer">
+    <default_value>0</default_value>
+    <edit_format_params>min=0
+step=1</edit_format_params>
+    <relation group_id="tl_MultiFileMirror" display_order="20"/>
+  </option>
+  <option option_id="tl_mfm_targetHosts" edit_format="checkbox" data_type="array">
+    <default_value>[]</default_value>
+    <edit_format_params>hi=hitfile.net
+tb=turbobit.net
+2s=2shared.com
+dh=datafilehost.com
+gp=gigapeta.com
+d3=depfile.com
+ul=uploaded.net
+wy=wayupload.com
+dr=dl.free.fr
+ra=rapidgator.net
+4s=4shared.com
+mz=mega.nz
+xu=xup.in
+1f=1fichier.com
+pc=pcloud.com
+ur=upstore.net
+ks=keep2share.cc
+a2=alfafile.net
+gt=ge.tt
+ol=openload.co
+dw=downace.com
+mf=mediafire.com
+ue=upload.ee
+ff=filefactory.com
+df=depositfiles.com
+f2=files.fm
+tf=tusfiles.net
+se=solidfiles.com
+sw=sendmyway.com
+rh=rgho.st
+so=share-online.biz
+zp=zippyshare.com
+ss=sendspace.com
+lt=load.to
+vt=virustotal.com</edit_format_params>
+    <sub_options>*</sub_options>
+    <relation group_id="tl_MultiFileMirror" display_order="150"/>
+  </option>
+</options>

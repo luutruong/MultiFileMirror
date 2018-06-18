@@ -1,0 +1,29 @@
+{
+    "tl_mfm_allowedExtensions.json": {
+        "hash": "66155a29b1dfa8c64040ce9c6d049f68"
+    },
+    "tl_mfm_allowedNodes.json": {
+        "hash": "93c2dee2b43aef874af6cfec7993e270"
+    },
+    "tl_mfm_allowedXFRMCategories.json": {
+        "hash": "aa2d73c1fe08d19a6fe9a947c776468d"
+    },
+    "tl_mfm_apiKey.json": {
+        "hash": "b9f22860e708c23e6b76ae3d8af6890b"
+    },
+    "tl_mfm_enableXFRM.json": {
+        "hash": "efbc2aa975a157e42f1964fa62aa30e4"
+    },
+    "tl_mfm_maxViewMFMRaw.json": {
+        "hash": "08f67cdddc1034d140c14cdc11810dd7"
+    },
+    "tl_mfm_removeAttachFiles.json": {
+        "hash": "22823469e9ce20a85f45c7c3eca68d2f"
+    },
+    "tl_mfm_targetHosts.json": {
+        "hash": "b439e8024254ff8c7cdc5b47fecac570"
+    },
+    "tl_mfm_uploadMethod.json": {
+        "hash": "db9f7a260b5bbac6b3557c4e0af256cc"
+    }
+}

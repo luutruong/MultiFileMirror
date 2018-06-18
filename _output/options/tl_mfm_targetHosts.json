@@ -1,0 +1,14 @@
+{
+    "edit_format": "checkbox",
+    "edit_format_params": "hi=hitfile.net\ntb=turbobit.net\n2s=2shared.com\ndh=datafilehost.com\ngp=gigapeta.com\nd3=depfile.com\nul=uploaded.net\nwy=wayupload.com\ndr=dl.free.fr\nra=rapidgator.net\n4s=4shared.com\nmz=mega.nz\nxu=xup.in\n1f=1fichier.com\npc=pcloud.com\nur=upstore.net\nks=keep2share.cc\na2=alfafile.net\ngt=ge.tt\nol=openload.co\ndw=downace.com\nmf=mediafire.com\nue=upload.ee\nff=filefactory.com\ndf=depositfiles.com\nf2=files.fm\ntf=tusfiles.net\nse=solidfiles.com\nsw=sendmyway.com\nrh=rgho.st\nso=share-online.biz\nzp=zippyshare.com\nss=sendspace.com\nlt=load.to\nvt=virustotal.com",
+    "data_type": "array",
+    "sub_options": [
+        "*"
+    ],
+    "validation_class": "",
+    "validation_method": "",
+    "default_value": "[]",
+    "relations": {
+        "tl_MultiFileMirror": 150
+    }
+}

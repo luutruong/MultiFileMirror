@@ -1,0 +1,134 @@
+{
+    "cron_entry.tl_mfm_removeAttachFiles.txt": {
+        "global_cache": false,
+        "version_id": 1000670,
+        "version_string": "1.0.6",
+        "hash": "b764df1f224f21a48ee16a7121b1f108"
+    },
+    "option.tl_mfm_allowedExtensions.txt": {
+        "global_cache": false,
+        "version_id": 1000070,
+        "version_string": "1.0.0",
+        "hash": "e15ac4a7bd3a99c9a9ef13c59a1ea467"
+    },
+    "option.tl_mfm_allowedNodes.txt": {
+        "global_cache": false,
+        "version_id": 1000070,
+        "version_string": "1.0.0",
+        "hash": "f900fceb1e8927f1b89a81419c95e948"
+    },
+    "option.tl_mfm_allowedXFRMCategories.txt": {
+        "global_cache": false,
+        "version_id": 1000170,
+        "version_string": "1.0.1",
+        "hash": "783d86467746a969c41b659fdd2fabb1"
+    },
+    "option.tl_mfm_apiKey.txt": {
+        "global_cache": false,
+        "version_id": 1000070,
+        "version_string": "1.0.0",
+        "hash": "d876ff8da67c3731ae25d8335a4168b4"
+    },
+    "option.tl_mfm_enableXFRM.txt": {
+        "global_cache": false,
+        "version_id": 1000070,
+        "version_string": "1.0.0",
+        "hash": "a818a7d475bf7047996714f4c8d6428e"
+    },
+    "option.tl_mfm_maxViewMFMRaw.txt": {
+        "global_cache": false,
+        "version_id": 1000470,
+        "version_string": "1.0.4",
+        "hash": "561d3d5b9ebcea71ab62412f0c4c28a7"
+    },
+    "option.tl_mfm_removeAttachFiles.txt": {
+        "global_cache": false,
+        "version_id": 1000870,
+        "version_string": "1.0.8",
+        "hash": "3b29959397b4cb444ac300d919f8bc3b"
+    },
+    "option.tl_mfm_targetHosts.txt": {
+        "global_cache": false,
+        "version_id": 1000070,
+        "version_string": "1.0.0",
+        "hash": "9f9fe83f546edd33252a8fd8f19f9f15"
+    },
+    "option.tl_mfm_uploadMethod.txt": {
+        "global_cache": false,
+        "version_id": 1000570,
+        "version_string": "1.0.5",
+        "hash": "dad77a3ad9fdc1873f9763d96e647e69"
+    },
+    "option_explain.tl_mfm_allowedExtensions.txt": {
+        "global_cache": false,
+        "version_id": 1000070,
+        "version_string": "1.0.0",
+        "hash": "868353a2ef4cff30abbf3976e9cbdc88"
+    },
+    "option_explain.tl_mfm_allowedNodes.txt": {
+        "global_cache": false,
+        "version_id": 1000070,
+        "version_string": "1.0.0",
+        "hash": "8dc177b48ad3d327b20c16ac08cb8d05"
+    },
+    "option_explain.tl_mfm_allowedXFRMCategories.txt": {
+        "global_cache": false,
+        "version_id": 1000170,
+        "version_string": "1.0.1",
+        "hash": "1485f99736c1f3fd30ee09bc8b2c2c05"
+    },
+    "option_explain.tl_mfm_apiKey.txt": {
+        "global_cache": false,
+        "version_id": 1000070,
+        "version_string": "1.0.0",
+        "hash": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "option_explain.tl_mfm_enableXFRM.txt": {
+        "global_cache": false,
+        "version_id": 1000070,
+        "version_string": "1.0.0",
+        "hash": "4a989d9506471c9711230ef744d7df37"
+    },
+    "option_explain.tl_mfm_maxViewMFMRaw.txt": {
+        "global_cache": false,
+        "version_id": 1000470,
+        "version_string": "1.0.4",
+        "hash": "94ee20a21c4cf265516539dd59c447f4"
+    },
+    "option_explain.tl_mfm_removeAttachFiles.txt": {
+        "global_cache": false,
+        "version_id": 1000870,
+        "version_string": "1.0.8",
+        "hash": "afa42603d7a8d6ba5a34f4e8452c4cca"
+    },
+    "option_explain.tl_mfm_targetHosts.txt": {
+        "global_cache": false,
+        "version_id": 1000070,
+        "version_string": "1.0.0",
+        "hash": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "option_explain.tl_mfm_uploadMethod.txt": {
+        "global_cache": false,
+        "version_id": 1000570,
+        "version_string": "1.0.5",
+        "hash": "23b06de3b83dc8a40da90a6ec0f5be8b"
+    },
+    "option_group.tl_MultiFileMirror.txt": {
+        "global_cache": false,
+        "version_id": 1000070,
+        "version_string": "1.0.0",
+        "hash": "53b624817a0ae180dfac42afd3ad33e1"
+    },
+    "option_group_description.tl_MultiFileMirror.txt": {
+        "global_cache": false,
+        "version_id": 1000070,
+        "version_string": "1.0.0",
+        "hash": "d41d8cd98f00b204e9800998ecf8427e"
+    },
+    "tl_mfm.upload_files.txt": {
+        "global_cache": false,
+        "version_id": 1000070,
+        "version_string": "1.0.0",
+        "hash": "b9e3f1ba171b47de3af8b63e6a7b549a"
+    }
+}

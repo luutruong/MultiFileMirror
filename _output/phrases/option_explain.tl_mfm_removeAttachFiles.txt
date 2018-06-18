@@ -1,0 +1,2 @@
+If specified, all attachment has MFM link will be deleted the file and use MFM link as default. Set to 0 to disable this feature.
+<br><strong>Important</strong>: Use this add-on which use accepted risky lost attachment files when remove the add-on.

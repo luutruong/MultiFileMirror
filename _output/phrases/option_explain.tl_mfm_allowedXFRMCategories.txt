@@ -1,0 +1,1 @@
+Only attachments uploaded to this categories will upload to Multi File Mirror Server.

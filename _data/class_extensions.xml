@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<class_extensions>
+  <extension from_class="XFRM\Pub\Controller\ResourceVersion" to_class="Truonglv\MultiFileMirror\XFRM\Pub\Controller\ResourceVersion" execute_order="10" active="1"/>
+  <extension from_class="XF\Entity\Attachment" to_class="Truonglv\MultiFileMirror\XF\Entity\Attachment" execute_order="10" active="1"/>
+  <extension from_class="XF\Entity\AttachmentData" to_class="Truonglv\MultiFileMirror\XF\Entity\AttachmentData" execute_order="10" active="1"/>
+  <extension from_class="XF\Pub\Controller\Attachment" to_class="Truonglv\MultiFileMirror\XF\Pub\Controller\Attachment" execute_order="10" active="1"/>
+</class_extensions>

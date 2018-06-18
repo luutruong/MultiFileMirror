@@ -1,0 +1,1 @@
+Only allowed there file extensions to be upload to MultiFileMirror server. Each extension should be separate by new line.

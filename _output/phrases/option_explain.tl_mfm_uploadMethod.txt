@@ -1,0 +1,2 @@
+<strong>Job</strong>: When attachment uploaded it's will add into queue and wait to upload<br />
+<strong>Instant</strong>: When attachment uploaded it's immediate upload attachment.

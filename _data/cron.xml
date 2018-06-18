@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cron>
+  <entry entry_id="tl_mfm_removeAttachFiles" cron_class="Truonglv\MultiFileMirror\Cron\RemoveAttachFiles" cron_method="runHourly" active="1"><![CDATA[{"day_type":"dom","dom":[-1],"hours":[-1],"minutes":[0]}]]></entry>
+</cron>

@@ -1,0 +1,6 @@
+{
+    "from_class": "XF\\Entity\\AttachmentData",
+    "to_class": "Truonglv\\MultiFileMirror\\XF\\Entity\\AttachmentData",
+    "execute_order": 10,
+    "active": true
+}

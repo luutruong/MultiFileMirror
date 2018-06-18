@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phrases>
+  <phrase title="cron_entry.tl_mfm_removeAttachFiles" version_id="1000670" version_string="1.0.6"><![CDATA[[tl] Multi File Mirror Integrated: Remove Attach Files]]></phrase>
+  <phrase title="option.tl_mfm_allowedExtensions" version_id="1000070" version_string="1.0.0"><![CDATA[Allow extensions]]></phrase>
+  <phrase title="option.tl_mfm_allowedNodes" version_id="1000070" version_string="1.0.0"><![CDATA[Allowed Forums]]></phrase>
+  <phrase title="option.tl_mfm_allowedXFRMCategories" version_id="1000170" version_string="1.0.1"><![CDATA[Allowed Resource Categories]]></phrase>
+  <phrase title="option.tl_mfm_apiKey" version_id="1000070" version_string="1.0.0"><![CDATA[API Key]]></phrase>
+  <phrase title="option.tl_mfm_enableXFRM" version_id="1000070" version_string="1.0.0"><![CDATA[Integrate with XenForo Resource Manager?]]></phrase>
+  <phrase title="option.tl_mfm_maxViewMFMRaw" version_id="1000470" version_string="1.0.4"><![CDATA[Limit view MFM raw link]]></phrase>
+  <phrase title="option.tl_mfm_removeAttachFiles" version_id="1000870" version_string="1.0.8"><![CDATA[Remove XenForo Attachment File after (days):]]></phrase>
+  <phrase title="option.tl_mfm_targetHosts" version_id="1000070" version_string="1.0.0"><![CDATA[Target Hosts]]></phrase>
+  <phrase title="option.tl_mfm_uploadMethod" version_id="1000570" version_string="1.0.5"><![CDATA[Upload attachment to Multi File Mirror via]]></phrase>
+  <phrase title="option_explain.tl_mfm_allowedExtensions" version_id="1000070" version_string="1.0.0"><![CDATA[Only allowed there file extensions to be upload to MultiFileMirror server. Each extension should be separate by new line.]]></phrase>
+  <phrase title="option_explain.tl_mfm_allowedNodes" version_id="1000070" version_string="1.0.0"><![CDATA[Only attachments uploaded under this forums will be upload to Multi File Mirror Server.]]></phrase>
+  <phrase title="option_explain.tl_mfm_allowedXFRMCategories" version_id="1000170" version_string="1.0.1"><![CDATA[Only attachments uploaded to this categories will upload to Multi File Mirror Server.]]></phrase>
+  <phrase title="option_explain.tl_mfm_apiKey" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="option_explain.tl_mfm_enableXFRM" version_id="1000070" version_string="1.0.0"><![CDATA[If checked, any files upload to XenForo Resource Manager will be upload to Multi File Mirror Server.]]></phrase>
+  <phrase title="option_explain.tl_mfm_maxViewMFMRaw" version_id="1000470" version_string="1.0.4"><![CDATA[The raw link of attachment without any restrict permission. Which allow Multi File Mirror server download.]]></phrase>
+  <phrase title="option_explain.tl_mfm_removeAttachFiles" version_id="1000870" version_string="1.0.8"><![CDATA[If specified, all attachment has MFM link will be deleted the file and use MFM link as default. Set to 0 to disable this feature.
+<br><strong>Important</strong>: Use this add-on which use accepted risky lost attachment files when remove the add-on.]]></phrase>
+  <phrase title="option_explain.tl_mfm_targetHosts" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="option_explain.tl_mfm_uploadMethod" version_id="1000570" version_string="1.0.5"><![CDATA[<strong>Job</strong>: When attachment uploaded it's will add into queue and wait to upload<br />
+<strong>Instant</strong>: When attachment uploaded it's immediate upload attachment.]]></phrase>
+  <phrase title="option_group.tl_MultiFileMirror" version_id="1000070" version_string="1.0.0"><![CDATA[[tl] Multi File Mirror Integrated]]></phrase>
+  <phrase title="option_group_description.tl_MultiFileMirror" version_id="1000070" version_string="1.0.0"><![CDATA[]]></phrase>
+  <phrase title="tl_mfm.upload_files" version_id="1000070" version_string="1.0.0"><![CDATA[Upload Files]]></phrase>
+</phrases>

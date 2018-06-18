@@ -1,0 +1,1 @@
+If checked, any files upload to XenForo Resource Manager will be upload to Multi File Mirror Server.
